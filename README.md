@@ -57,7 +57,7 @@ FAQ-Chatbot-NLP/
 
 Step 1: Clone Repository
 
-git clone https://github.com/yourusername/FAQ-Chatbot-NLP.git
+git clone https://github.com/akshat017-beep/FAQ-Chatbot-NLP.git
 
 ---
 
