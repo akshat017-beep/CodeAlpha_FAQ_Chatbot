@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click on forgot password on the login page."
+  },
+  {
+    "question": "What courses do you offer?",
+    "answer": "We offer AI, Web Development, and Data Science courses."
+  }
+]
